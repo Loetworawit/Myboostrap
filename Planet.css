@@ -1,0 +1,21 @@
+body{
+    background-image: url("long3");
+}
+.carousel-item{
+    height: 700px;
+}
+
+.carousel-image-1{
+    background-image: url("image/a1.jpg");
+    background-size: cover;
+}
+
+.carousel-image-2{
+    background-image: url("image/a2.jpg");
+    background-size: cover;
+}
+
+.carousel-image-3{
+    background-image: url("image/a3.jpg");
+    background-size: cover;
+}
